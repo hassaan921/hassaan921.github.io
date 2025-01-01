@@ -1,5 +1,3 @@
-# Hassaan's Resume
-
 --------------------------------------------------
 ### hassaanmalik921@gmail.com | +92 327 0152434 | [LinkedIn Profile](https://www.linkedin.com/in/hassaanmalik921/) | Rawalpindi, Pakistan
 --------------------------------------------------
