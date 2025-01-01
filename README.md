@@ -1,7 +1,7 @@
 # Hassaan's Resume
 
 --------------------------------------------------
-hassaanmalik921@gmail.com | +92 327 0152434 | [LinkedIn Profile](https://www.linkedin.com/in/hassaanmalik921/) | Rawalpindi, Pakistan
+### hassaanmalik921@gmail.com | +92 327 0152434 | [LinkedIn Profile](https://www.linkedin.com/in/hassaanmalik921/) | Rawalpindi, Pakistan
 --------------------------------------------------
 
 ## **Work Experience**
@@ -91,6 +91,7 @@ _[Policy Design and Strategic Communications for National Security (November 202
 _Please revert prior to contacting referees, so they may be alerted specifically with respect to the application._
 
 •	Ahmed Mujtaba Khan ahmed.mujtaba@ndf.org.pk 
+
 (Program Manager, National Dialogue Forum, Islamabad, Pakistan)
 
 •	Dr. Summar Iqbal Babar, summar.rao@qau.edu.pk  
