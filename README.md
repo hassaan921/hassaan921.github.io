@@ -8,6 +8,20 @@ _National Dialogue Forum, Pakistan_
 
 •	Researched for and developed two training manuals, one for training 150 CAG members in 5 project districts, and another for training 1,000 youth identified and psychosocially validated for their vulnerability to radicalization. Both featured theoretical knowledge and hands-on learning techniques based on best practices.
 
+•	Created 2 concept notes on specialized peace building training for youth and community engagement events. 
+
+•	Created and conducted pre- and post-tests, analyzed data, and developed 18 post-event reports of 8 training sessions for youth, 1 training for NACTA staff, 7 YPA orientations, and 2 community events.
+
+•	Translated a psychosocial analysis tool from English to Urdu that was used to assess 1,150 individuals across 5 districts. 
+
+•	Documented minutes for 20 official meetings–stakeholder meetings with 2 provincial secretaries, 5 district commissioners, 3 partner INGO/CSOs, VCs of 5 public universities, 2 quarterly Project Advisory Committee (PAC) meetings, a training needs assessment (TNA) with NACTA, and community advisory groups (CAG) meetings.
+
+•	Planned and managed 2 quarterly high-level PAC meetings of 15 members, including academics, conflict experts, serving/retired bureaucrats, chairpersons of key government bodies, journalists, and CSO heads. 
+
+•	Planned and arranged a 3-day training and retreat for 32 NACTA staff, including agenda development, vendor relations, logistical arrangements, financial documentation, and providing technical support to 2 expert trainers.  
+
+•	Sub-editor to an edited volume titled “Navigating Uncertainty: Perspectives on Post-Taliban Afghanistan and Geopolitical Footsteps”.
+
 ### **Network Associate/Team Coordinator (intern)			       		    November 2023 – January 2024**
 _Shelter Centre, Switzerland (remote)_
 
