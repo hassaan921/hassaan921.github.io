@@ -21,22 +21,22 @@ _Shelter Centre, Switzerland (remote)_
 
 •	Supported 2024 recruitment round (resumes/cover letter review, communication, and interviews).
 
-### *Research Fellow 						             		          June 2022 – November 2022*
+### **Research Fellow 						             		          June 2022 – November 2022**
 _Hanns Seidel Foundation, Pakistan_
 
 •	Conducted survey research (n = 63) in Gilgit city, Hassanabad and Bagrote Valley (Gilgit Baltistan) to understand local communities’ perception of Glacial Lake Outburst Floods (GLOF-I/II) climate adaptation projects. 
 
 •	Acted as liaison between research fellows from QAU and HSF Islamabad office. 
 
-### *Report Writer 		              			           	                 		   September 2021 – October 2023*
+### **Report Writer 		              			           	                 		   September 2021 – October 2023**
 _Contract-based and Volunteer_
 
 •	Prepared 17 session reports and a press release with a team of three report writers during the NDF–HSF International Summer Workshop (2022) on Regional Connectivity in Pakistan, Afghanistan, and Central Asia. 
 
 •	Prepared reports and web copy about workshops, guest lectures, and conferences at my alma mater. 
 
-## *Education 
-### *Bachelor of Science in International Relations (credential)    	 		                  September 2019 – November 2023*
+## **Education**
+### **Bachelor of Science in International Relations (credential)    	 		                  September 2019 – November 2023**
 _School of Politics and International Relations, Quaid-i-Azam University, Islamabad_
 
 •	Publication: COVID-19 and Human Security Challenges to Pakistan (Babar & Malik, 2022)
@@ -45,7 +45,7 @@ _School of Politics and International Relations, Quaid-i-Azam University, Islama
 
 •	CGPA: 3.8 (Grade: A) 
 
-### *Courses/Certificates
+### **Courses/Certificates**
 _Data Analytics Bootcamp	November 2024 - Ongoing_
 
 _Applied Statistical Modeling for Data Analysis in R                            November 2023_
@@ -71,7 +71,7 @@ _Civic Education Workshop                                                       
 
 •	Video conferencing: scheduling, recording, coordinating calls (MS Teams, Zoom, Skype, Google Meet)
 
-## *Referees
+## **Referees**
 _Please revert prior to contacting referees, so they may be alerted specifically with respect to the application._
 
 •	Ahmed Mujtaba Khan ahmed.mujtaba@ndf.org.pk 
@@ -79,4 +79,3 @@ _Please revert prior to contacting referees, so they may be alerted specifically
 
 •	Dr. Summar Iqbal Babar, summar.rao@qau.edu.pk  
 (Assistant Professor, School of Politics and International Relations, Quaid-i-Azam University, Islamabad, Pakistan)
-
