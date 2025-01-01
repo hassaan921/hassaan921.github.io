@@ -70,7 +70,7 @@ _[Applied Statistical Modeling for Data Analysis in R](https://www.udemy.com/cer
 
 _[Policy Design and Strategic Communications for National Security (November 2021)](https://photos.app.goo.gl/uPkm7anLRTwsVsrF7)_
 
-## *IT Skills
+## **IT Skills**
 •	Partner Relations: Communication and maintenance of partner relations
 
 •	Reporting and Documentation: Concept notes, minutes of meeting, post-activity reports, financial documentation
