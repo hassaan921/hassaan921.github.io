@@ -3,3 +3,10 @@ logo: assets/img/circled photo.png
 description: Aspiring computational social scientist
 show_downloads: false
 theme: jekyll-theme-minimal
+
+header_pages:
+  - index.md
+  - cv.md
+  - projects.md
+  - blog.md
+  - learn.md
