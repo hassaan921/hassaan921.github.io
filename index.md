@@ -9,3 +9,13 @@ title: Welcome
   <h2>Aspiring Computational Social Scientist</h2>
   <p>This site showcases my CV, portfolio projects, blog posts, and things I learn every day.</p>
 </div>
+
+
+## This is my CV site
+[link]
+
+## This is my SQL project
+link
+
+## This is my Excel Project
+link
